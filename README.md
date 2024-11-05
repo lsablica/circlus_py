@@ -47,6 +47,11 @@ You can install these dependencies by running:
 pip install -r requirements.txt
 ```
 
+After meeting the requirements, install `circlus_py`:
+
+```bash
+pip install circlus_py
+```
 
 This will install the `circlus_py` wrapper package, enabling you to use the `circlus` R package models and sampling functions from Python.
 
