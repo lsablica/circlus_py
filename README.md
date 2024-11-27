@@ -2,7 +2,7 @@
 
 `circlus_py` is a Python wrapper for the [**circlus**](https://cran.r-project.org/package=circlus) R package, providing access to circular mixture models implemented in R. The `circlus` package offers flexible mixture modeling for circular data, supporting custom-defined distributions, which is valuable for analyzing angular or periodic data.
 
-This Python package allows you to utilize `circlus` models and sampling functions directly from Python, streamlining workflows for those familiar with Python while leveraging the statistical power of R.
+This Python package allows you to utilize `circlus` models and sampling functions directly from Python, streamlining workflows for those familiar with Python while leveraging the statistical power of R. 
 
 ## Features
 
